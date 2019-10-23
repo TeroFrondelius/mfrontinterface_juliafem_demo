@@ -1,0 +1,6 @@
+gcc
+g++
+curl
+make
+cmake
+patchelf
