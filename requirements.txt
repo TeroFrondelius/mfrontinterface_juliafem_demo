@@ -1,5 +1,4 @@
 gcc
-g++
 curl
 make
 cmake
